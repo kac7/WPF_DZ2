@@ -1,0 +1,30 @@
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\bin\Debug\WpfApp_dz2.exe.config
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\bin\Debug\WpfApp_dz2.exe
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\bin\Debug\WpfApp_dz2.pdb
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.csprojResolveAssemblyReference.cache
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\MainWindow.g.cs
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\App.g.cs
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2_MarkupCompile.cache
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2_MarkupCompile.lref
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\MainWindow.baml
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.g.resources
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.Properties.Resources.resources
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.csproj.GenerateResource.cache
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.csproj.CoreCompileInputs.cache
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.exe
+C:\Users\Кас\Documents\Visual Studio 2017\Projects\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.pdb
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\bin\Debug\WpfApp_dz2.exe.config
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\bin\Debug\WpfApp_dz2.exe
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\bin\Debug\WpfApp_dz2.pdb
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.csprojResolveAssemblyReference.cache
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\MainWindow.g.cs
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\App.g.cs
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2_MarkupCompile.cache
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2_MarkupCompile.lref
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\MainWindow.baml
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.g.resources
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.Properties.Resources.resources
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.csproj.GenerateResource.cache
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.csproj.CoreCompileInputs.cache
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.exe
+E:\ItStep\WpfApp_dz2\WpfApp_dz2\obj\Debug\WpfApp_dz2.pdb
